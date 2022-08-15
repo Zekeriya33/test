@@ -15,4 +15,7 @@ public class Day2GitGithub {
     kullaniriz
 
      */
+    public static void main(String[] args) {
+        System.out.println("Github'i da ogrendim ");
+    }
 }
